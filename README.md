@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://potato-corner-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/AishwaryaShetty7/PotatoCorner.git
 ```
 
 2. Backend setting
